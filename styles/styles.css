@@ -2,16 +2,18 @@
     /* border: solid 3px blue; */
     padding: 0px;
     margin: 0px;
-    box-sizing: content-box;
+    box-sizing: co;
 }
 
 .contenedor-titulo-principal{
-    border: solid 4px green;
-    padding: 30px;
-    margin: 50px;
-    width: 500px;
+    background-color: purple;
+    color: #ffffff;
+    border-radius: 15px;
+    margin: 40px;
+    text-align: center;
+    padding: 20px;
 }
 
 h1{
-    border: solid 2px red;
+    
 }
